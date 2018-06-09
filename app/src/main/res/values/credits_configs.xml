@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://lh3.googleusercontent.com/dEY8AH0tLjRh-ZgLfu5E2RW_NCW4fzLCXkhNJO4UjyRgqC1GQhk8WiK8MX6W1of27tabDZrTNjge8XVY8GwfaZgeN8CZrQr30LKHo2obgSy_NAUyxl2GC6SSKqFY6lPDvhKMsxy8BBPRhYGXa-PzS6sI9le13M9FqLt_6chLY8yOAhhAT45pNrdfGZYxJ8hL24LY6kDltIlxEYekS6KUtWwDChYlSLgYeroMVVAxAhf5vQRJzllQgE7x1FW2dFoNzvKDXFuY9IxDG2Uu5XMp3hNoJ7059b20049JhZIehvaeoefWE1-ouseWw7JFCALwb0j2XW1wRrHXQKisHCq0RDP1sMaXMMqQCcAPFMs0nKwLZsMk8SKxwi0J4HdbP0yMsHGy2_kbcodhmN9PPHbbapi2UmU_pUkozH-whh8JPko2ldFXho9ZKLV_UDrNbGyMbPwAQ9ztBzghu1KAki_93Ec66GYbByOeRtdBiHWb3PKKIBCH0Ci0Or6v3fY0eicxfZqGbelaX11DxWbNcAarDoy1nDmyQX6o1Yz0u3BLe2BxmxqQoUh3aE_ASPLwamu2wX6viW_UEX993eDYha9ShPqly8UqFOQEpPpwahyixPKFSQljPkBfoJHUq74YeMU5MjLEoNP73dRRU8-SIx6ElrVCTX-IU7abwQ=w512-h468-no</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Benjamin Sow</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Mechanical Engineering graduate with an artistic brain and a bit of free time on his hand.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Deviantart|Dribbble</item>
+        <item>Instagram|Google+|Twitter</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://bensow.deviantart.com/|https://dribbble.com/BenSow</item>
+        <item>http://instagram.com/bnswpixels|https://plus.google.com/u/0/+BenjaminSow/|https://twitter.com/iambensow</item>
+    </string-array>
+</resources>

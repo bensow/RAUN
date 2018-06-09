@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike 
+  ~ 4.0 International License. You may not use this file except in compliance 
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>anz</item>
+        <item>calculator_oneplus</item>
+        <item>calendar</item>
+        <item>camera_oneplus</item>
+        <item>camscanner</item>
+        <item>chrome</item>
+        <item>community_oneplus</item>
+        <item>drive</item>
+        <item>explorer</item>
+        <item>facebook</item>
+        <item>gallery_oneplus</item>
+        <item>gmail</item>
+        <item>google_duo</item>
+        <item>google_pay</item>
+        <item>google_plus</item>
+        <item>google</item>
+        <item>groupon</item>
+        <item>ifttt</item>
+        <item>instagram</item>
+        <item>lawnchair</item>
+        <item>messages</item>
+        <item>mi_fit</item>
+        <item>opal_travel</item>
+        <item>play_store</item>
+        <item>quitzilla</item>
+        <item>reddit</item>
+        <item>resplash</item>
+        <item>snapchat</item>
+        <item>snapseed</item>
+        <item>telegram</item>
+        <item>twitter</item>
+        <item>uber</item>
+        <item>whatsapp</item>
+        <item>youtube</item>
+        <item>zomato</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+        <item>all</item>
+        <item>google</item>
+        <item>blue</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>circles</item>
+        <item>rectangles</item>
+        <item>squares</item>
+    </string-array>
+    
+    <string-array name="all">
+        <item></item>
+        <item>anz</item>
+        <item>baconreader</item>
+        <item>boost_juice</item>
+        <item>calculator_oneplus</item>
+        <item>camera_oneplus</item>
+        <item>camscanner</item>
+        <item>chrome</item>
+        <item>citymapper</item>
+        <item>clock_oneplus</item>
+        <item>community_oneplus</item>
+        <item>contacts</item>
+        <item>downloads</item>
+        <item>drive</item>
+        <item>du_recorder</item>
+        <item>es_file_explorer_pro</item>
+        <item>explorer</item>
+        <item>facebook</item>
+        <item>files_go</item>
+        <item>find_device</item>
+        <item>frost</item>
+        <item>gallery_oneplus</item>
+        <item>gallery</item>
+        <item>gmail</item>
+        <item>google_allo</item>
+        <item>google_calendar</item>
+        <item>google_camera</item>
+        <item>google_duo</item>
+        <item>google_keep</item>
+        <item>google_maps</item>
+        <item>google_pay</item>
+        <item>google_photos</item>
+        <item>google_plus</item>
+        <item>google</item>
+        <item>groupon</item>
+        <item>hurry</item>
+        <item>ifttt</item>
+        <item>inbox</item>
+        <item>instagram</item>
+        <item>kingdom_rush</item>
+        <item>klwp</item>
+        <item>kwgt</item>
+        <item>lawnchair</item>
+        <item>linkedin</item>
+        <item>messages</item>
+        <item>messenger</item>
+        <item>mi_fit</item>
+        <item>musixmatch</item>
+        <item>notes_oneplus</item>
+        <item>nova_launcher</item>
+        <item>nova_settings</item>
+        <item>officesuite_pro</item>
+        <item>onefootball</item>
+        <item>opal_travel</item>
+        <item>phone</item>
+        <item>play_games</item>
+        <item>play_movies_tv</item>
+        <item>play_music</item>
+        <item>play_newsstand</item>
+        <item>play_store</item>
+        <item>pushbullet</item>
+        <item>quitzilla</item>
+        <item>recorder_oneplus</item>
+        <item>reddit</item>
+        <item>resplash</item>
+        <item>retro_music</item>
+        <item>rewards_google</item>
+        <item>seaport</item>
+        <item>settings</item>
+        <item>snapchat</item>
+        <item>snapseed</item>
+        <item>splitwise</item>
+        <item>spotify</item>
+        <item>substratum</item>
+        <item>swiftkey_keyboard</item>
+        <item>tayble</item>
+        <item>telegram</item>
+        <item>twitter</item>
+        <item>weather_timeline</item>
+        <item>whatsapp</item>
+        <item>youtube</item>
+        <item>zedge</item>
+
+    </string-array>
+
+    <string-array name="google">
+        <item>calendar</item>
+        <item>chrome</item>
+        <item>drive</item>
+        <item>gmail</item>
+        <item>google_duo</item>
+        <item>google_pay</item>
+        <item>google_plus</item>
+        <item>google</item>
+        <item>play_games</item>
+        <item>play_movies_tv</item>
+        <item>play_music</item>
+        <item>play_newsstand</item>
+        <item>play_store</item>
+    </string-array>
+
+</resources>

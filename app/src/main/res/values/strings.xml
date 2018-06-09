@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Raun</string>
+	<string name="default_download_folder">%1$s/RaunWalls/Wallpapers</string>
+	<string name="json_url">https://raw.githubusercontent.com/bensow/raunwalls/master/JSON-files/raunwalls.json</string>
+	<string name="app_description">An icon pack based on raised rounded rectangles and vibrant colours.</string>
+</resources>
